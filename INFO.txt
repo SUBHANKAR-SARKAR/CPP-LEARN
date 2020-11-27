@@ -1,1 +1,14 @@
-Hello World
+Git commands-
+git --version
+git help config
+git config --help
+mkdir |dir_name|
+cd |dir_name|
+git init
+git status
+git add |file_name|
+git commit -m |message|
+git config --global user.username |username|
+git config --global user.email |email|
+git remote add origin |HTTPS link|
+git push origin master
